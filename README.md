@@ -18,7 +18,7 @@ I have tested demo and real-world websites to improve my QA skills.
 ## Practice Projects
 - Swag Labs (saucedemo.com)
 - Daraz (Login & Signup testing)
-- 
+- PlanIt Nepal
 
 ## Tools
 - Postman
@@ -28,5 +28,5 @@ I have tested demo and real-world websites to improve my QA skills.
 - JMeter (Learning)
 
 ## Contact
-- Email: your-email@gmail.com
-- LinkedIn: your-linkedin-link
+- Email: reetithapa28@gmail.com
+- LinkedIn: https://www.linkedin.com/in/reeti-thapa/
