@@ -50,7 +50,7 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 
 ---
 
-### PlanIt Nepal
+### PlanIt Nepal Testing
 -  Manual testing of PlanIt Nepal Website
 -  Prepared test cases and test scenarios
 -  Tracked bugs
