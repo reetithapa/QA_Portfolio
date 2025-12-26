@@ -42,15 +42,11 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 - Designed test cases and test scenarios  
 - Logged and tracked defects using Jira   
 
-Folder: `Swag-Labs-Testing
-
 ---
 
 ### Daraz Testing Practice
 -  Manual testing of login and sign up page
 - Prepared test cases and test scenarios  
-
-📂 Folder: `Daraz-Testing`
 
 ---
 
