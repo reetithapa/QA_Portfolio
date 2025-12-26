@@ -1,31 +1,65 @@
 # QA Portfolio – Reeti Thapa
 
 ## About Me
-I am a QA Intern with hands-on practice in manual testing and API testing.
-I have tested demo and real-world websites to improve my QA skills.
+I am a QA Intern with hands-on experience in manual testing and API testing. I have tested demo and real-world web applications to improve software quality by identifying defects, validating functionality, and ensuring a smooth user experience. I am eager to learn, grow, and contribute to high-quality software development teams.
+
+---
 
 ## Skills
-- Manual Testing
-- Test Case Writing
-- Test Scenario Design
-- Bug Reporting
-- API Testing (Postman)
-- UI Testing
-- Cross-Browser Testing
-- Functional Testing
-- Boundary and negative Testing
 
-## Practice Projects
-- Swag Labs (saucedemo.com)
-- Daraz (Login & Signup testing)
-- PlanIt Nepal
+### 🔹 Testing
+- Manual Testing  
+- API Testing  
+- Functional Testing  
+- UI & Usability Testing  
+- Boundary Value & Negative Testing  
+- Regression Testing  
 
-## Tools
-- Postman
-- GitHub
-- Chrome DevTools
-- JIRA (bug reporting format)
-- JMeter (Learning)
+### 🔹 Tools
+- Postman  
+- Jira  
+- JMeter(Learning)   
+
+### 🔹 Test Artifacts
+- Test Cases  
+- Test Scenarios    
+- Bug Reports  
+
+### 🔹 Technical Knowledge
+- Software Development Life Cycle (SDLC)  
+- Software Testing Life Cycle (STLC)  
+- Bug Life Cycle  
+- HTML, CSS, JavaScript (Basic)  
+- Agile / Scrum Methodology  
+- Test Design Techniques  
+
+---
+
+## Projects
+
+### Swag Labs Testing
+- Manual testing of login, product, cart, and checkout modules  
+- Designed test cases and test scenarios  
+- Logged and tracked defects using Jira   
+
+📂 Folder: `Swag-Labs-Testing`
+
+---
+
+### Daraz Testing Practice
+-  Manual testing of login and sign up page
+- Prepared test cases and test scenarios  
+
+📂 Folder: `Daraz-Testing`
+
+---
+
+### PlanIt Nepal
+-  Manual testing of PlanIt Nepal Website
+-  Prepared test cases and test scenarios
+-  Tracked bugs
+
+---
 
 ## Contact
 - Email: reetithapa28@gmail.com
