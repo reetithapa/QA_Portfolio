@@ -7,7 +7,7 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 
 ## Skills
 
-### 🔹 Testing
+### Testing
 - Manual Testing  
 - API Testing  
 - Functional Testing  
@@ -15,17 +15,17 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 - Boundary Value & Negative Testing  
 - Regression Testing  
 
-### 🔹 Tools
+### Tools
 - Postman  
 - Jira  
 - JMeter(Learning)   
 
-### 🔹 Test Artifacts
+### Test Artifacts
 - Test Cases  
 - Test Scenarios    
 - Bug Reports  
 
-### 🔹 Technical Knowledge
+### Technical Knowledge
 - Software Development Life Cycle (SDLC)  
 - Software Testing Life Cycle (STLC)  
 - Bug Life Cycle  
