@@ -42,7 +42,7 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 - Designed test cases and test scenarios  
 - Logged and tracked defects using Jira   
 
-📂 Folder: `Swag-Labs-Testing`
+Folder: `Swag-Labs-Testing
 
 ---
 
