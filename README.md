@@ -18,7 +18,8 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 ### Tools
 - Postman  
 - Jira  
-- JMeter(Learning)   
+- Dev Tools
+- Selenium Basic(Learning) 
 
 ### Test Artifacts
 - Test Cases  
@@ -29,7 +30,7 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 - Software Development Life Cycle (SDLC)  
 - Software Testing Life Cycle (STLC)  
 - Bug Life Cycle  
-- HTML, CSS, JavaScript (Basic)  
+- HTML, CSS, Python (Basic)  
 - Agile / Scrum Methodology  
 - Test Design Techniques  
 
@@ -38,7 +39,8 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 ## Projects
 
 ### Swag Labs Testing
-- Manual testing of login, product, cart, and checkout modules  
+- Manual testing of login, product, cart, and checkout modules
+- Automated login and inventory page
 - Designed test cases and test scenarios  
 - Logged and tracked defects using Jira   
 
