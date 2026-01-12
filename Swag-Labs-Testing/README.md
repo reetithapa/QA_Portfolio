@@ -12,3 +12,4 @@ Website: https://www.saucedemo.com/
 - Test cases and test scenarios (Excel)
 - Bug report (Excel)
 - Jira bug reporting screenshots (PDF)
+- test_login_inventory.py 
