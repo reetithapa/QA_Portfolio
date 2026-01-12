@@ -1,13 +1,20 @@
-# Swag Labs Automation Testing
+# Selenium Automation – Swag Labs
 
-This folder contains automation scripts for testing Swag Labs website (https://www.saucedemo.com/) using Selenium and Python.
+This project contains Selenium automation test scripts written in Python
+for the Swag Labs website. This project is created for learning and
+portfolio purposes.
 
-## Scripts Included
-1. `test_login.py` - Tests login functionality
-2. `test_cart.py` - Tests adding/removing items in the cart
-3. `test_checkout.py` - Tests checkout process
+## Tools & Technologies
+- Python
+- Selenium WebDriver
+- WebDriver Manager
+- Chrome Browser
 
-## How to Run
-1. Install Python dependencies: `pip install -r requirements.txt`
-2. Run the tests: `python test_login.py`
+## Automated Scenarios
+- Login with valid credentials
+- Inventory page validation
+- Product listing
+- Add product to cart
 
+## Website Tested
+https://www.saucedemo.com/
