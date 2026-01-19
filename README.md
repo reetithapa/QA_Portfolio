@@ -1,7 +1,7 @@
 # QA Portfolio – Reeti Thapa
 
 ## About Me
-I am a QA Intern with hands-on experience in manual testing and API testing. I have tested demo and real-world web applications to improve software quality by identifying defects, validating functionality, and ensuring a smooth user experience. I am eager to learn, grow, and contribute to high-quality software development teams.
+I am a B.Sc.CSIT Student (8th Semester) with hands-on experience in manual testing and API testing and a basic understanding of automation testing using Selenium. I have tested demo and real-world web applications to improve software quality by identifying defects, validating functionality, and ensuring a smooth user experience. I am eager to learn, grow, and contribute to high-quality software development teams.
 
 ---
 
@@ -31,7 +31,7 @@ I am a QA Intern with hands-on experience in manual testing and API testing. I h
 - Software Testing Life Cycle (STLC)  
 - Bug Life Cycle  
 - HTML, CSS, Python (Basic)  
-- Agile / Scrum Methodology  
+- Agile Methodology  
 - Test Design Techniques  
 
 ---
